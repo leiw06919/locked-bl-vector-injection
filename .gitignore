@@ -1,0 +1,14 @@
+*.log
+*.tmp
+tmp/
+out/
+*.apk
+*.zip
+*.tar.gz
+*.img
+*.so
+*.bin
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
